@@ -1,4 +1,4 @@
-# TP 6 – Résilience des microservices avec Spring Cloud Hystrix
+# TP6 – Résilience des microservices avec Spring Cloud Hystrix
 
 ## Description
 
